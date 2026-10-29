@@ -59,7 +59,7 @@ Tabela `transacoes`:
 
 2. Na aba “DSN de Usuário”, clicque em “Adicionar”.
 
-3. Escolhe `SQLite3 ODBC Driver` e clicque em “Concluir”.
+3. Escolha `SQLite3 ODBC Driver` e clicque em “Concluir”.
 
 4. No campo “Data Source Name”, digite `analisador_financeiro`.
 
@@ -69,7 +69,7 @@ Tabela `transacoes`:
 
 7. Abra o `dashboard_financeiro.pbix` no Power BI Desktop.
 
-8. Clique em “Atualizar”, na aba “Página Inicial” do Power BI. Se ele pedir credenciais, escolhe a aba “Padrão ou Personalizada” e cliquew em “Conectar”.
+8. Clique em “Atualizar”, na aba “Página Inicial” do Power BI. Se ele pedir credenciais, escolhe a aba “Padrão ou Personalizada” e clique em “Conectar”.
 
 ## Limitações
 - Os dados cadastrados são fictícios e eles cobrem apenas um mês.
